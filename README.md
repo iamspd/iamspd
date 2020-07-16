@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on GitHub.
 - 🤔 I’m looking for help with Web Development.
 - 💬 Ask me about Coding.
-- 📫 How to reach me: Instagram - [iamspd_](https://www.instagram.com/iamspd_/), LinkedIn - Priyank Shah[enter link description here]
+- 📫 How to reach me: Instagram - [iamspd_](https://www.instagram.com/iamspd_/), LinkedIn - [Priyank Shah](https://www.linkedin.com/in/iamspd/)
 - 😄 Pronouns: He/His.
 - ⚡ Fun fact: I capture and code.
 
