@@ -1,5 +1,7 @@
 ### Hi there, I am Priyank! 👋
 
+![](https://komarev.com/ghpvc/?username=iamspd&color=blueviolet&style=flat-square)
+
 <!--
 **iamspd/iamspd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
