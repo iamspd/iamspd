@@ -14,8 +14,9 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with Web Development.
 - 💬 Ask me about Coding.
 - 📫 How to reach me: 
-![](https://img.shields.io/badge/-iamspd-blue?style=flat-square&amp;logo=Linkedin&amp;logoColor=white&amp;link=https://www.linkedin.com/in/iamspd") 
+![](https://img.shields.io/badge/-iamspd-blue?style=flat-square&amp;logo=Linkedin&amp;logoColor=white&amp;link=https://www.linkedin.com/in/iamspd/") 
 ![](https://img.shields.io/badge/-iamspd__-red?style=flat-square&amp;logo=Instagram&amp;logoColor=white&amp;link=https://www.instagram.com/iamspd_")
+![](https://img.shields.io/badge/-imthepk-blue?style=flat-square&amp;logo=Linkedin&amp;logoColor=white&amp;link=https://www.linkedin.com/in/imthepk/")
 - 😄 Pronouns: He/His.
 - ⚡ Fun fact: I capture and code.
 
