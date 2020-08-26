@@ -14,17 +14,21 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with Web Development.
 - 💬 Ask me about Coding.
 - 📫 How to reach me: 
-![](https://img.shields.io/badge/-iamspd-blue?style=flat-square&amp;logo=Linkedin&amp;logoColor=white&amp;link=https://www.linkedin.com/in/iamspd/") 
-![](https://img.shields.io/badge/-iamspd__-red?style=flat-square&amp;logo=Instagram&amp;logoColor=white&amp;link=https://www.instagram.com/iamspd_")
-![](https://img.shields.io/badge/-imthepk-blue?style=flat-square&amp;logo=Linkedin&amp;logoColor=white&amp;link=https://www.linkedin.com/in/imthepk/")
+[![Linkedin](https://img.shields.io/badge/-iamspd-blue?style=flat-square&amp&logo=linkedin&amp&logoColor=white&amp")](http://www.linkedin.com/in/iamspd)
+[![Instagram](https://img.shields.io/badge/-iamspd__-red?style=flat-square&amp;logo=instagram&amp;logoColor=white&amp;")](https://www.instagram.com/iamspd_)
 - 😄 Pronouns: He/His.
 - ⚡ Fun fact: I capture and code.
 
 Languages and Tools: <br/><br/>
-![](https://img.shields.io/badge/-white?style=logo&amp;logo=Android&amp;logoColor=success&amp;")
-![](https://img.shields.io/badge/-white?style=logo&amp;logo=Flutter&amp;logoColor=blue&amp;")
-![](https://img.shields.io/badge/-white?style=logo&amp;logo=PHP&amp;logoColor=blueviolet&amp;")
-![](https://img.shields.io/badge/-white?style=logo&amp;logo=Java&amp;logoColor=red&amp;")
+![Android](https://img.shields.io/badge/-white?style=logo&amp;logo=android&amp;logoColor=brightgreen&amp;")
+![Java](https://img.shields.io/badge/-white?style=logo&amp;logo=java&amp;logoColor=red&amp;")
+![MySQL](https://img.shields.io/badge/-white?style=logo&amp;logo=mysql&amp;logoColor=blueviolet&amp;")
+![SQLite](https://img.shields.io/badge/-white?style=logo&amp;logo=sqlite&amp;logoColor=yellowgreen&amp;")
+![Flutter](https://img.shields.io/badge/-white?style=logo&amp;logo=flutter&amp;logoColor=blue&amp;")
+![PHP](https://img.shields.io/badge/-white?style=logo&amp;logo=php&amp;logoColor=blueviolet&amp;")
+![Visual Studio Code](https://img.shields.io/badge/-white?style=logo&amp;logo=visual-studio-code&amp;logoColor=blue&amp;")
+![WordPress](https://img.shields.io/badge/-white?style=logo&amp;logo=wordpress&amp;logoColor=9cf&amp;")
+![Git](https://img.shields.io/badge/-white?style=logo&amp;logo=git&amp;logoColor=red&amp;")
 
 <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=iamspd&amp;theme=dark&amp;hide_langs_below=1"/>
 
