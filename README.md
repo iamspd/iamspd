@@ -24,6 +24,7 @@ Languages and Tools: <br/><br/>
 ![Java](https://img.shields.io/badge/-white?style=logo&amp;logo=java&amp;logoColor=red&amp;")
 ![MySQL](https://img.shields.io/badge/-white?style=logo&amp;logo=mysql&amp;logoColor=blueviolet&amp;")
 ![SQLite](https://img.shields.io/badge/-white?style=logo&amp;logo=sqlite&amp;logoColor=yellowgreen&amp;")
+![Realm](https://img.shields.io/badge/-white?style=logo&amp;logo=realm&amp;logoColor=red&amp;")
 ![Flutter](https://img.shields.io/badge/-white?style=logo&amp;logo=flutter&amp;logoColor=blue&amp;")
 ![PHP](https://img.shields.io/badge/-white?style=logo&amp;logo=php&amp;logoColor=blueviolet&amp;")
 ![Visual Studio Code](https://img.shields.io/badge/-white?style=logo&amp;logo=visual-studio-code&amp;logoColor=blue&amp;")
