@@ -8,30 +8,17 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 I’m currently working on Android.
-- 🌱 I’m currently learning Flutter.
-- 👯 I’m looking to collaborate on GitHub.
-- 🤔 I’m looking for help with Web Development.
-- 💬 Ask me about Coding.
-- 📫 How to reach me: 
-[![Linkedin](https://img.shields.io/badge/-iamspd-blue?style=flat-square&amp&logo=linkedin&amp&logoColor=white&amp")](http://www.linkedin.com/in/iamspd)
-[![Instagram](https://img.shields.io/badge/-iamspd__-red?style=flat-square&amp;logo=instagram&amp;logoColor=white&amp;")](https://www.instagram.com/iamspd_)
-- 😄 Pronouns: He/His.
-- ⚡ Fun fact: I capture and code.
+# 💫 About Me:
+🔭 I’m currently working on Android development best practices <br>👯 I’m looking to collaborate on Android open source projects<br>🤝 I’m looking for help with clean architecture pattern<br>🌱 I’m currently learning dependency injection with Dagger Hilt<br>💬 Ask me about space <br>⚡ Fun fact - Hot water freezes faster than cold water
 
-Languages and Tools: <br/><br/>
-![Android](https://img.shields.io/badge/-white?style=logo&amp;logo=android&amp;logoColor=brightgreen&amp;")
-![Java](https://img.shields.io/badge/-white?style=logo&amp;logo=java&amp;logoColor=red&amp;")
-![MySQL](https://img.shields.io/badge/-white?style=logo&amp;logo=mysql&amp;logoColor=blueviolet&amp;")
-![SQLite](https://img.shields.io/badge/-white?style=logo&amp;logo=sqlite&amp;logoColor=yellowgreen&amp;")
-![Realm](https://img.shields.io/badge/-white?style=logo&amp;logo=realm&amp;logoColor=blueviolet&amp;")
-![Flutter](https://img.shields.io/badge/-white?style=logo&amp;logo=flutter&amp;logoColor=blue&amp;")
-![PHP](https://img.shields.io/badge/-white?style=logo&amp;logo=php&amp;logoColor=blueviolet&amp;")
-![Visual Studio Code](https://img.shields.io/badge/-white?style=logo&amp;logo=visual-studio-code&amp;logoColor=blue&amp;")
-![WordPress](https://img.shields.io/badge/-white?style=logo&amp;logo=wordpress&amp;logoColor=9cf&amp;")
-![Git](https://img.shields.io/badge/-white?style=logo&amp;logo=git&amp;logoColor=red&amp;")
 
-<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=iamspd&amp;theme=dark&amp;hide_langs_below=1"/>
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/iamspd) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@iamspd) 
 
-<img src = "https://github-readme-stats.vercel.app/api?username=iamspd&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515"/>
+# 💻 Tech Stack:
+![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=flat&logo=kotlin&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=flat&logo=markdown&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=flat&logo=gnu-bash&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=flat&logo=dart&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=flat&logo=firebase&logoColor=ffcd34) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=flat&logo=Adobe%20Lightroom&logoColor=white) ![Adobe Lightroom Classic](https://img.shields.io/badge/Adobe%20Lightroom%20Classic-31A8FF.svg?style=flat&logo=Adobe%20Lightroom%20Classic&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=flat&logo=adobe%20photoshop&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=flat&logo=gitlab&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=flat&logo=gitlab&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat&logo=notion&logoColor=white)
 
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=iamspd&theme=github_dark&hide_border=false&include_all_commits=false&count_private=false)
+![](https://nirzak-streak-stats.vercel.app/?user=iamspd&theme=github_dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=iamspd&theme=github_dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
