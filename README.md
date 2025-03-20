@@ -1,13 +1,5 @@
 ### Hi there, I am Priyank! 👋
 
-![](https://komarev.com/ghpvc/?username=iamspd&color=blueviolet&style=flat-square)
-
-<!--
-**iamspd/iamspd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
--->
-
 # 💫 About Me:
 🔭 I’m currently working on Android <br>👯 I’m looking to collaborate on Android open source projects <br>🤝 I’m looking for help with understanding Dagger Hilt <br>🌱 I’m currently learning UI design with Figma <br>💬 Ask me about space <br>⚡ Fun fact - Hot water freezes faster than cold water
 
@@ -26,5 +18,4 @@ Here are some ideas to get you started:
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamspd&theme=github_dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="150">
 </p>
 
-
-
+![](https://komarev.com/ghpvc/?username=iamspd&color=blueviolet&style=flat-square)
